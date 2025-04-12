@@ -79,10 +79,14 @@ This tutorial covers the following aspects:
 
 ---
 
-## YouTube Video Tutorial
 
-For a complete walkthrough of this tutorial, check out the full video on my **YouTube channel**:
+▶️ **Watch the Full Video Tutorial Here**  
+🔗 [https://youtu.be/yuGIo5-8Tlc](https://youtu.be/yuGIo5-8Tlc)
 
+
+## YouTube Channel
+
+Check out the my **YouTube channel**:
 [Watch the video on YouTube](https://www.youtube.com/codingwithdev)
 
 ---
